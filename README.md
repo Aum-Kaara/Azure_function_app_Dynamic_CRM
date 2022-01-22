@@ -24,6 +24,10 @@ Give Access to app as system admin permission
 
 ![image](https://user-images.githubusercontent.com/6815990/150632839-e2caea77-fb97-4614-8148-7029561ef59f.png)
 
+### Create Azure Fucntion 
+
+use below code to connect Dynamic 365 
+
 ```
 var connectionString = $"Url=https://{Instance}.dynamics.com;AuthType=ClientSecret;ClientId={ClientId};ClientSecret={ClientSecret};RequireNewInstance=true";
 var serviceClient = new Microsoft.PowerPlatform.Dataverse.Client.ServiceClient(connectionString);
