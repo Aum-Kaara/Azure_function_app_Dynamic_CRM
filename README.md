@@ -17,3 +17,9 @@ Login into [Power Platform Admin center](https://admin.powerplatform.microsoft.c
 Create Application in App Registration . use these Client_id , Client_Secret while connecting to Dynamic 365 using Azure Functions
 
 ![N|Solid](Media/AppRegistration.png)
+
+Give Access to app as system admin permission 
+
+![image](https://user-images.githubusercontent.com/6815990/150632775-d3c5d357-9e23-4215-9736-83952b638995.png)
+
+![image](https://user-images.githubusercontent.com/6815990/150632839-e2caea77-fb97-4614-8148-7029561ef59f.png)
